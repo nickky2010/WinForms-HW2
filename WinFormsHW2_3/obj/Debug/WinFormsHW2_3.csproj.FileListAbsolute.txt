@@ -1,0 +1,11 @@
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW2\WinFormsHW2_3\bin\Debug\WinFormsHW2_3.exe.config
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW2\WinFormsHW2_3\bin\Debug\WinFormsHW2_3.exe
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW2\WinFormsHW2_3\bin\Debug\WinFormsHW2_3.pdb
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW2\WinFormsHW2_3\obj\Debug\WinFormsHW2_3.csprojAssemblyReference.cache
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW2\WinFormsHW2_3\obj\Debug\WinFormsHW2_3.Form1.resources
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW2\WinFormsHW2_3\obj\Debug\WinFormsHW2_3.Form2.resources
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW2\WinFormsHW2_3\obj\Debug\WinFormsHW2_3.Properties.Resources.resources
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW2\WinFormsHW2_3\obj\Debug\WinFormsHW2_3.csproj.GenerateResource.cache
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW2\WinFormsHW2_3\obj\Debug\WinFormsHW2_3.csproj.CoreCompileInputs.cache
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW2\WinFormsHW2_3\obj\Debug\WinFormsHW2_3.exe
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW2\WinFormsHW2_3\obj\Debug\WinFormsHW2_3.pdb

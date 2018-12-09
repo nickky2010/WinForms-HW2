@@ -1,0 +1,30 @@
+D:\P21017\nickky2010\WidowsForms\Уроки в классе\Program_8_ReadWrite\Program_8_ReadWrite\bin\Debug\Program_8_ReadWrite.exe.config
+D:\P21017\nickky2010\WidowsForms\Уроки в классе\Program_8_ReadWrite\Program_8_ReadWrite\bin\Debug\Program_8_ReadWrite.exe
+D:\P21017\nickky2010\WidowsForms\Уроки в классе\Program_8_ReadWrite\Program_8_ReadWrite\bin\Debug\Program_8_ReadWrite.pdb
+D:\P21017\nickky2010\WidowsForms\Уроки в классе\Program_8_ReadWrite\Program_8_ReadWrite\obj\Debug\Program_8_ReadWrite.csprojAssemblyReference.cache
+D:\P21017\nickky2010\WidowsForms\Уроки в классе\Program_8_ReadWrite\Program_8_ReadWrite\obj\Debug\Program_8_ReadWrite.Form1.resources
+D:\P21017\nickky2010\WidowsForms\Уроки в классе\Program_8_ReadWrite\Program_8_ReadWrite\obj\Debug\Program_8_ReadWrite.Properties.Resources.resources
+D:\P21017\nickky2010\WidowsForms\Уроки в классе\Program_8_ReadWrite\Program_8_ReadWrite\obj\Debug\Program_8_ReadWrite.csproj.GenerateResource.cache
+D:\P21017\nickky2010\WidowsForms\Уроки в классе\Program_8_ReadWrite\Program_8_ReadWrite\obj\Debug\Program_8_ReadWrite.csproj.CoreCompileInputs.cache
+D:\P21017\nickky2010\WidowsForms\Уроки в классе\Program_8_ReadWrite\Program_8_ReadWrite\obj\Debug\Program_8_ReadWrite.exe
+D:\P21017\nickky2010\WidowsForms\Уроки в классе\Program_8_ReadWrite\Program_8_ReadWrite\obj\Debug\Program_8_ReadWrite.pdb
+A:\Учеба\WidowsForms\Уроки в классе\Program_8_ReadWrite\Program_8_ReadWrite\bin\Debug\Program_8_ReadWrite.exe.config
+A:\Учеба\WidowsForms\Уроки в классе\Program_8_ReadWrite\Program_8_ReadWrite\bin\Debug\Program_8_ReadWrite.exe
+A:\Учеба\WidowsForms\Уроки в классе\Program_8_ReadWrite\Program_8_ReadWrite\bin\Debug\Program_8_ReadWrite.pdb
+A:\Учеба\WidowsForms\Уроки в классе\Program_8_ReadWrite\Program_8_ReadWrite\obj\Debug\Program_8_ReadWrite.csprojAssemblyReference.cache
+A:\Учеба\WidowsForms\Уроки в классе\Program_8_ReadWrite\Program_8_ReadWrite\obj\Debug\Program_8_ReadWrite.Form1.resources
+A:\Учеба\WidowsForms\Уроки в классе\Program_8_ReadWrite\Program_8_ReadWrite\obj\Debug\Program_8_ReadWrite.Properties.Resources.resources
+A:\Учеба\WidowsForms\Уроки в классе\Program_8_ReadWrite\Program_8_ReadWrite\obj\Debug\Program_8_ReadWrite.csproj.GenerateResource.cache
+A:\Учеба\WidowsForms\Уроки в классе\Program_8_ReadWrite\Program_8_ReadWrite\obj\Debug\Program_8_ReadWrite.csproj.CoreCompileInputs.cache
+A:\Учеба\WidowsForms\Уроки в классе\Program_8_ReadWrite\Program_8_ReadWrite\obj\Debug\Program_8_ReadWrite.exe
+A:\Учеба\WidowsForms\Уроки в классе\Program_8_ReadWrite\Program_8_ReadWrite\obj\Debug\Program_8_ReadWrite.pdb
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW2\Program_8_ReadWrite\Program_8_ReadWrite\bin\Debug\Program_8_ReadWrite.exe.config
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW2\Program_8_ReadWrite\Program_8_ReadWrite\bin\Debug\Program_8_ReadWrite.exe
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW2\Program_8_ReadWrite\Program_8_ReadWrite\bin\Debug\Program_8_ReadWrite.pdb
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW2\Program_8_ReadWrite\Program_8_ReadWrite\obj\Debug\Program_8_ReadWrite.csprojAssemblyReference.cache
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW2\Program_8_ReadWrite\Program_8_ReadWrite\obj\Debug\Program_8_ReadWrite.Form1.resources
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW2\Program_8_ReadWrite\Program_8_ReadWrite\obj\Debug\Program_8_ReadWrite.Properties.Resources.resources
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW2\Program_8_ReadWrite\Program_8_ReadWrite\obj\Debug\Program_8_ReadWrite.csproj.GenerateResource.cache
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW2\Program_8_ReadWrite\Program_8_ReadWrite\obj\Debug\Program_8_ReadWrite.csproj.CoreCompileInputs.cache
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW2\Program_8_ReadWrite\Program_8_ReadWrite\obj\Debug\Program_8_ReadWrite.exe
+A:\Учеба\WidowsForms\Домашние задания\WinFormsHW2\Program_8_ReadWrite\Program_8_ReadWrite\obj\Debug\Program_8_ReadWrite.pdb
