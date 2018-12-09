@@ -1,4 +1,4 @@
-WinForms-HW1
+WinForms-HW2
 
 ITStep(Gomel)-WinForms Home work 2
 
